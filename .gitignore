@@ -1,0 +1,12 @@
+.lkm_example.ko.cmd
+.lkm_example.mod.cmd
+.lkm_example.mod.o.cmd
+.lkm_example.o.cmd
+.Module.symvers.cmd
+.modules.order.cmd
+lkm_example.ko
+lkm_example.mod.o
+lkm_example.o
+Module.symvers
+modules.order
+lkm_example.mod
